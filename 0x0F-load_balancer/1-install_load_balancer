@@ -20,3 +20,4 @@ backend backend_nodes
 " >> /etc/haproxy/haproxy.cfg'
 
 service haproxy restart
+sudo service haproxy start
